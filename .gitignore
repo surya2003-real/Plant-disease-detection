@@ -6,4 +6,8 @@ CROP
 vit-base-patch16-224-in21k
 ./vit-base-patch16-224-in21k
 ./vit-base-patch16-224-in21k/tf_model.h5
-
+archive
+datasets
+cropped_images_dataset
+*.jpg
+runs
