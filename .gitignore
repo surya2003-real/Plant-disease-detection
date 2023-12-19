@@ -11,3 +11,4 @@ datasets
 cropped_images_dataset
 *.jpg
 runs
+models
