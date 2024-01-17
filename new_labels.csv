@@ -1,0 +1,33 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+img0.jpg,1200,630,Corn Gray leaf spot,252,4,998,630
+img1.jpg,465,350,Tomato Early blight leaf,153,5,409,344
+img2.jpg,3264,2448,Corn leaf blight,38,978,3226,2448
+img3.jpg,1500,1125,Tomato Septoria leaf spot,776,1,1394,680
+img3.jpg,1500,1125,Tomato Septoria leaf spot,191,270,883,1125
+img4.jpg,333,500,Potato leaf early blight,71,108,250,448
+img5.jpg,1224,1632,Corn Gray leaf spot,449,13,1184,1615
+img6.jpg,638,479,Tomato leaf yellow virus,30,274,106,327
+img6.jpg,638,479,Tomato leaf yellow virus,134,250,223,296
+img6.jpg,638,479,Tomato leaf yellow virus,76,164,125,248
+img6.jpg,638,479,Tomato leaf yellow virus,447,322,562,399
+img6.jpg,638,479,Tomato leaf yellow virus,429,236,544,312
+img7.jpg,2848,2136,Potato leaf late blight,1303,808,2760,1990
+img7.jpg,2848,2136,Potato leaf late blight,739,39,1572,920
+img7.jpg,2848,2136,Potato leaf late blight,212,778,1021,1526
+img7.jpg,2848,2136,Potato leaf late blight,690,954,1290,1948
+img8.jpg,640,437,Potato leaf early blight,153,155,383,410
+img8.jpg,640,437,Potato leaf early blight,256,123,473,294
+img9.jpg,362,240,Corn leaf blight,1,72,362,174
+img10.jpg,220,376,Bell_pepper leaf spot,28,30,105,140
+img10.jpg,220,376,Bell_pepper leaf spot,127,66,212,152
+img10.jpg,220,376,Bell_pepper leaf spot,95,107,130,168
+img10.jpg,220,376,Bell_pepper leaf spot,1,159,103,226
+img10.jpg,220,376,Bell_pepper leaf spot,108,187,178,297
+img10.jpg,220,376,Bell_pepper leaf spot,118,152,176,185
+img11.jpg,350,260,Tomato Septoria leaf spot,9,5,226,139
+img11.jpg,350,260,Tomato Septoria leaf spot,9,121,344,256
+img12.jpg,640,480,Potato leaf early blight,7,43,614,447
+img13.jpg,2592,1944,Bell_pepper leaf spot,761,115,1987,1591
+img13.jpg,2592,1944,Bell_pepper leaf spot,1478,565,2573,1944
+img14.jpg,390,540,Blueberry leaf,74,47,372,227
+img15.jpg,672,832,Corn Gray leaf spot,45,1,626,829

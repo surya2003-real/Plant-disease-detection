@@ -12,3 +12,5 @@ cropped_images_dataset
 *.jpg
 runs
 models
+datasets(1)
+*.zip
